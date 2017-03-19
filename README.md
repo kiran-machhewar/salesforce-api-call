@@ -1,6 +1,6 @@
 # SF API Call Manager
 Features <br/>
--[1  Handling API calls which timeouts in salesforce
+-[1]  Handling API calls which timeouts in salesforce<br/>
 -[2] Handling API calls where polling for result is required
 
 
