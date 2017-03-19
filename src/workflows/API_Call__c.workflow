@@ -9,7 +9,6 @@
         <fields>Id</fields>
         <fields>Request__c</fields>
         <includeSessionId>true</includeSessionId>
-        <integrationUser>admin@neo.com</integrationUser>
         <name>Make API Call Outbound Message</name>
         <protected>false</protected>
         <useDeadLetterQueue>false</useDeadLetterQueue>

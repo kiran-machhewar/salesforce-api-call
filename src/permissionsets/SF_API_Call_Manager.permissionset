@@ -45,4 +45,8 @@
         <object>API_Call__c</object>
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
+    <tabSettings>
+        <tab>API_Call__c</tab>
+        <visibility>Visible</visibility>
+    </tabSettings>
 </PermissionSet>

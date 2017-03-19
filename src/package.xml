@@ -16,5 +16,9 @@
         <members>SF_API_Call_Manager</members>
         <name>PermissionSet</name>
     </types>
+    <types>
+        <members>API_Call__c</members>
+        <name>CustomTab</name>
+    </types>
     <version>38.0</version>
 </Package>
